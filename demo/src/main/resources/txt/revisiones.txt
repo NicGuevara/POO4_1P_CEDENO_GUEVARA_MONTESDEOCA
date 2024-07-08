@@ -1,0 +1,8 @@
+4d643dd4-ebf7-4966-94e9-70f199587c50|81|002|Pendiente|Revision asignada
+72e85d7e-50c0-451f-9368-7c9a5c3e8b35|81|004|Pendiente|Revision asignada
+f00571fe-9677-464b-b037-173947a01d2b|52|001|Aprobado|Revision asignada
+c47f1abf-dec6-43f0-8c1b-a6a485145aad|52|002|Rechazado|Revision asignada
+6d9e3196-8262-430e-b729-f598774e2bd6|8|003|Pendiente|Revision asignada
+41faaea3-d9df-499d-91a4-0e1a2efdb902|8|004|Pendiente|Revision asignada
+daa713ef-9394-4520-bf9b-7cedacd5ca8b|35|001|Pendiente|Revision asignada
+f019cb6b-d717-49fe-aa69-b9f250ef8936|35|002|Pendiente|Revision asignada
