@@ -1,0 +1,4 @@
+001|Nicole|Guevara|nicole04082005@gmail.com|Tecnologia|1
+002|Joselyne|Guevara|joselyneguevara01@gmail.com|deportes|1
+003|Luisana|Cruz|nicguecrz@gmail.com|comida|0
+004|Fernanda|Cruz|nicgcruz@espol.edu.ec|Hogar|0

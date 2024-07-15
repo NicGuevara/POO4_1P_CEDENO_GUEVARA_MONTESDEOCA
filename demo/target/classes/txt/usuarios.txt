@@ -1,0 +1,6 @@
+001|nGue|nic123|R|001
+002|gCrz|gCrz123|E|001
+003|jGue|josi123|R|002
+004|lCrz|lui123|R|003
+005|fCrz|fer123|R|004
+006|dLun|luna123|E|002
